@@ -11,6 +11,7 @@ we will add our changes and keep tracking using git diff to view changes in work
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
+Branches will help in creating multiple paralle versions for applications. It would be very easy to switch between original version andparallel versions.
 
 How do the diagrams help you visualize the branch structure?
 
