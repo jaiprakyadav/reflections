@@ -18,6 +18,7 @@ Diagrams help us to understand better visibility and commits relationship. They 
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
+Merging branches will help to reach the full product if multipl people are working on a project and it is very easy to look at their codes and perform the requisite actions.
 
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
