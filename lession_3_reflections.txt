@@ -11,3 +11,6 @@ To aaare offline about the latest commit you submited and make note of differenc
 
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 Do not know.
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+When we would want to make parallel features for parallel configurations.
